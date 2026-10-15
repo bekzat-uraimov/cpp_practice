@@ -72,6 +72,13 @@ int main() {
 // child class    - inherits from the parent class
 //
 // abstraction    - making something easy to use by hiding the complex stuff
-// encapsulation  - granting access to private data only through controlled public interfaces
-// inheritance    - creating derived classes that inherit properties from a base class
+// encapsulation  - granting access to private data only through controlled public interfaces(for example to get the deposit if its only a positive number)
+// inheritance    - creating derived classes that inherit properties from a base class, professor recommends to forget about inheritance and go with interfaces
 // polymorphism   - different objects treated as the same type, even if they are different classes
+// function overloading     - change the 
+// operator overloading     -  is the same as function overloading(double check)
+// virtual functions        - 
+// run time                 - 
+// interfaces               - 
+// contructors - 
+// destractor - 
