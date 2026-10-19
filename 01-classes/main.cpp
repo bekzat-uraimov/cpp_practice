@@ -80,5 +80,11 @@ int main() {
 // virtual functions        - 
 // run time                 - 
 // interfaces               - 
-// contructors - 
-// destractor - 
+// contructors              - 
+// destractor               - 
+// constructors             -
+// move constructors        -
+// explicit cinstructors    -
+// destructor               - 
+// RVO                      - 
+
